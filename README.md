@@ -1,2 +1,2 @@
 # Fraud_Movements
-In this notebook I am going to predict fraud movements from clients in a bank using different types of algorithms
+In this notebook I am going to predict fraud movements from bank clients using different types of algorithms
